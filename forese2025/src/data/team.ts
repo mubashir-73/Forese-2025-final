@@ -46,7 +46,7 @@ export const seniorCoreMembers: CoreMember[] = [
     id: 3,
     name: "S G Srivarshini",
     role: "Vice-President",
-    imageUrl: "/images/c3.jpg",
+    imageUrl: "/images/c3.1.jpg",
     linkedinUrl: "https://www.linkedin.com/in/srivarshini-s-g-7a9a6a293/",
     oneLiner:"Happiness flows easier when life isn’t overthought",
   },
