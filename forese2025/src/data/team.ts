@@ -28,7 +28,7 @@ export type Member = {
 export const seniorCoreMembers: CoreMember[] = [
   {
     id: 1,
-    name: "Manoj Kumar",
+    name: "Manoj Kumar K",
     role: "President",
     imageUrl: "/images/c1.jpg",
     linkedinUrl: "https://www.linkedin.com/in/manoj-kumar-34681827a/",
@@ -44,16 +44,15 @@ export const seniorCoreMembers: CoreMember[] = [
   },
   {
     id: 3,
-    name: "Sri Varshini",
+    name: "S G Srivarshini",
     role: "Vice-President",
-    imageUrl: "/images/c3.jpg",
+    imageUrl: "/images/c3.1.jpg",
     linkedinUrl: "https://www.linkedin.com/in/srivarshini-s-g-7a9a6a293/",
-    oneLiner:
-      "Why stress about tomorrow? It hasn't even sent me an invitation yet!",
+    oneLiner:"Happiness flows easier when life isn’t overthought",
   },
   {
     id: 4,
-    name: "Arunima",
+    name: "Arunima Muralitharan",
     role: "General Secretary",
     imageUrl: "/images/c4.jpg",
     linkedinUrl: "https://www.linkedin.com/in/aru04/",
@@ -61,7 +60,7 @@ export const seniorCoreMembers: CoreMember[] = [
   },
   {
     id: 5,
-    name: "Jhalak",
+    name: "Jhalak Vashistha",
     role: "General Secretary",
     imageUrl: "/images/c5.jpg",
     linkedinUrl: "https://www.linkedin.com/in/jhalak-vashistha/",
@@ -70,7 +69,7 @@ export const seniorCoreMembers: CoreMember[] = [
   },
   {
     id: 9,
-    name: "Kartheesan",
+    name: "Kartheesan Senthilkumar",
     role: "General Secretary",
     imageUrl: "/images/c9.jpg",
     linkedinUrl: "https://www.linkedin.com/in/kartheesan05/",
@@ -78,7 +77,7 @@ export const seniorCoreMembers: CoreMember[] = [
   },
   {
     id: 6,
-    name: "Karthik",
+    name: "Karthik BM",
     role: "General Secretary",
     imageUrl: "/images/c6.jpg",
     linkedinUrl: "https://www.linkedin.com/in/karthik-bm-73048a28a/",
@@ -87,7 +86,7 @@ export const seniorCoreMembers: CoreMember[] = [
   },
   {
     id: 7,
-    name: "Pranoy",
+    name: "Pranoy PJ",
     role: "General Secretary",
     imageUrl: "/images/c7.jpg",
     linkedinUrl: "https://www.linkedin.com/in/pjpranoy/",
@@ -95,7 +94,7 @@ export const seniorCoreMembers: CoreMember[] = [
   },
   {
     id: 8,
-    name: "Sandhya",
+    name: "Sandhya S",
     role: "General Secretary",
     imageUrl: "/images/c8.jpg",
     linkedinUrl: "https://www.linkedin.com/in/sandhya-sadasivam-89bb4126b/",
@@ -1661,3 +1660,4 @@ export const coreMembers: CoreMember[] = [
   ...seniorCoreMembers,
   ...juniorCoreMembers,
 ];
+
