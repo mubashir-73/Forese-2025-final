@@ -48,7 +48,7 @@ export const seniorCoreMembers: CoreMember[] = [
     role: "Vice-President",
     imageUrl: "/images/c3.1.jpg",
     linkedinUrl: "https://www.linkedin.com/in/srivarshini-s-g-7a9a6a293/",
-    oneLiner:"Happiness flows easier when life isn’t overthought",
+    oneLiner: "Happiness flows easier when life isn’t overthought",
   },
   {
     id: 4,
@@ -1497,7 +1497,7 @@ export const members: Member[] = [
   },
   {
     id: 51,
-    name: "Shreenidhi1C",
+    name: "Shreenidhi C",
     role: "Member",
     imageUrl: "/images/m52.jpg",
     linkedinUrl:
@@ -1660,4 +1660,3 @@ export const coreMembers: CoreMember[] = [
   ...seniorCoreMembers,
   ...juniorCoreMembers,
 ];
-
