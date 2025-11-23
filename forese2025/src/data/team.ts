@@ -261,7 +261,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Hemanth K R",
     role: "Senior Member",
     imageUrl: "/images/sm10.jpg",
-    linkedinUrl: "https://www.linkedin.com/in/senior-member-10",
+    linkedinUrl: "https://www.linkedin.com/in/hemanthrajakumar/",
     oneLiner: "",
   },
   {
@@ -270,7 +270,7 @@ export const seniorMembers: SeniorMember[] = [
     role: "Senior Member",
     imageUrl: "/images/sm11.jpg",
     linkedinUrl:
-      "https://www.linkedin.com/in/hemanth-k-r-448270296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin.com/in/jeevan-thirunaukarasu-n-45a89a259",
     oneLiner: "Innovation is my driving force",
   },
   {
@@ -446,7 +446,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Shruti v",
     role: "Senior Member",
     imageUrl: "/images/sm31.jpg",
-    linkedinUrl: "1",
+    linkedinUrl: "https://www.linkedin.com/in/shruti-vijaykumar-903860297/",
     oneLiner: "I'm quite nice actually ;)",
   },
   {
@@ -454,7 +454,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Sidharth Harish M",
     role: "Senior Member",
     imageUrl: "/images/sm32.jpg",
-    linkedinUrl: "",
+    linkedinUrl: "https://www.linkedin.com/in/sidharth-harish-m-012b4a273/",
     oneLiner: "Whispering dreams into existence",
   },
   {
@@ -462,7 +462,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Sneha Sekaran",
     role: "Senior Member",
     imageUrl: "/images/sm33.jpg",
-    linkedinUrl: "",
+    linkedinUrl: "https://www.linkedin.com/in/sneha-sekaran-111b5a299/",
     oneLiner: "High functioning Sociopath",
   },
   {
@@ -479,7 +479,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Sowmiya.S.R",
     role: "Senior Member",
     imageUrl: "/images/sm35.png",
-    linkedinUrl: "",
+    linkedinUrl: "https://www.linkedin.com/in/sowmiya-r-2721b0266/",
     oneLiner:
       "A girl who loves to be with people and challenges herself to do the best.",
   },
@@ -559,7 +559,7 @@ export const seniorMembers: SeniorMember[] = [
     role: "Senior Member",
     imageUrl: "/images/sm44.jpg",
     linkedinUrl: "https://www.linkedin.com/in/varssha-balasubramani-318190299/",
-    oneLiner: "Atttempt the impossible!",
+    oneLiner: "Attempt the impossible!",
   },
   {
     id: 45,
@@ -680,7 +680,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "ARAVINDHAN L",
     role: "Senior Member",
     imageUrl: "/images/sm58.jpg",
-    linkedinUrl: "https://www.linkedin.com/in/senior-member-58",
+    linkedinUrl: "https://www.linkedin.com/in/aravindhan-l-50b161321/",
     oneLiner:
       "An enthusiastic learner, eager to explore new chapters of life with curiosity and passion./",
   },
@@ -716,7 +716,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Bhavishya.V",
     role: "Senior Member",
     imageUrl: "/images/sm62.jpg",
-    linkedinUrl: "https://www.linkedin.com/in/senior-member-62",
+    linkedinUrl: "https://www.linkedin.com/in/bhavishya-vasantha/",
     oneLiner: "Live fast, die young",
   },
   {
@@ -1026,7 +1026,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Tejaswini R",
     role: "Senior Member",
     imageUrl: "/images/sm98.jpg",
-    linkedinUrl: "https://www.linkedin.com/in/senior-member-73",
+    linkedinUrl: "https://www.linkedin.com/in/tejaswiniramakrishnan/",
     oneLiner: "I tend to keep talking 'til somebody stops me.",
   },
   {
@@ -1034,7 +1034,7 @@ export const seniorMembers: SeniorMember[] = [
     name: "Thanneermalai S",
     role: "Senior Member",
     imageUrl: "/images/sm99.jpg",
-    linkedinUrl: "www.linkedin.com/in/tejaswini-r-4303322b0",
+    linkedinUrl: "https://www.linkedin.com/in/thanneermalai-shanmugam-719423321/",
     oneLiner: "Focus over frenzy",
   },
   {
@@ -1173,7 +1173,7 @@ export const members: Member[] = [
     role: "Member",
     imageUrl: "/images/m12.jpg",
     linkedinUrl:
-      "https://www.linkedin.com/in/devadharshini-s-a-6884https://www.linkedin.com/in/devadharshinisa07/",
+      "https://www.linkedin.com/in/devadharshini-s-a-/",
     oneLiner: "Designing Today , Defining Tomorrow ",
   },
   {
@@ -1595,7 +1595,7 @@ export const members: Member[] = [
     name: "Thirushan SR",
     role: "Member",
     imageUrl: "/images/m63.jpg",
-    linkedinUrl: "",
+    linkedinUrl: "https://www.linkedin.com/in/thirushan-s-r-a52532388/",
     oneLiner: "Where creativity meets impact.",
   },
   {
