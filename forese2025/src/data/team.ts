@@ -108,7 +108,7 @@ export const juniorCoreMembers: CoreMember[] = [
     name: "Anushri",
     role: "Executive Director",
     imageUrl: "/images/c11.jpg",
-    linkedinUrl: "linkedin.com/in/anu-shri",
+    linkedinUrl: "https://www.linkedin.com/in/anu-shri/",
     oneLiner: "Travel more, worry less, spread kindness",
   },
   {
