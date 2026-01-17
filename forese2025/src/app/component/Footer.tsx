@@ -51,8 +51,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <h3 className="text-xl font-semibold text-white mb-4">FORESE</h3>
             <p className="text-sm leading-relaxed">
-              Fostering Excellence in Research, Entrepreneurship, and Social
-              Empowerment. We are dedicated to nurturing talent and innovation.
+             Preparing engineers for placements and higher education through mock, career workshops, and Foreign education fairs.
             </p>
             <div className="flex space-x-4 mt-6">
               {socialLinks.map((link) => (
